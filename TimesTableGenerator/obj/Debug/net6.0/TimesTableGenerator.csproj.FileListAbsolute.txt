@@ -1,0 +1,16 @@
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator.deps.json
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator.runtimeconfig.json
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator.runtimeconfig.dev.json
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator.dll
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/ref/TimesTableGenerator.dll
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/bin/Debug/net6.0/TimesTableGenerator.pdb
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.csproj.AssemblyReference.cache
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.AssemblyInfoInputs.cache
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.AssemblyInfo.cs
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.csproj.CoreCompileInputs.cache
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.dll
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/ref/TimesTableGenerator.dll
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.pdb
+/home/adonis/RiderProjects/TimesTableGenerator/TimesTableGenerator/obj/Debug/net6.0/TimesTableGenerator.genruntimeconfig.cache
